@@ -1,7 +1,7 @@
 package = "requires"
 version = "0.0.1-1"
 source = {
-   url = "https://github.com/codebabel-appbag/requires/archive/refs/tags/v0.1.tar.gz"
+   url = "https://github.com/codebabel-appbag/lua_requires.git"
 }
 description = {
    summary = "A production-hardened Lua module loader with injection protection and clean error reporting.",
@@ -10,9 +10,9 @@ description = {
       providing strict type checking, regex-based validation against command injection, 
       and path disclosure masking.
       
-      github: https://github.com/codebabel-appbag/lua_requires/README.md
+      github: https://github.com/codebabel-appbag/lua_requires/tree/main/README.md
    ]],
-   homepage = "https://github.com/codebabel-appbag/lua_requires",
+   homepage = "https://github.com/codebabel-appbag/lua_requires/tree/main/README.md",
    license = "MIT"
 }
 dependencies = {
