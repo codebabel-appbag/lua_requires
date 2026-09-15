@@ -11,9 +11,9 @@ description = {
       providing strict type checking, regex-based validation against command injection, 
       and path disclosure masking.
       
-      github: https://github.com/codebabel-appbag/lua_requires/tree/main/README.md
+      github: https://github.com/codebabel-appbag/lua_requires
    ]],
-   homepage = "https://github.com/codebabel-appbag/lua_requires/tree/main/README.md",
+   homepage = "https://github.com/codebabel-appbag/lua_requires",
    license = "MIT"
 }
 dependencies = {
