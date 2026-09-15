@@ -105,7 +105,7 @@ local result_encoded = pkg.dkjson.encode({
     days = future:fmt("%Y-%m-%d")
 })
 
--- Aplicando a função 'c' (ansicolor) na string colorida
+-- Apply c
 print(c("%{red}Result: %{reset}") .. result_encoded)
 ```
 
