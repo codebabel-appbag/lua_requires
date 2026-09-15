@@ -1,7 +1,8 @@
 package = "requires"
 version = "0.0.1-1"
 source = {
-   url = "https://github.com/codebabel-appbag/lua_requires.git"
+   url = "https://github.com/codebabel-appbag/lua_requires.git",
+   branch = "main"
 }
 description = {
    summary = "A production-hardened Lua module loader with injection protection and clean error reporting.",
